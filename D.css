@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    color: white;
+
+}
+
+p{
+    color: whitesmoke;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
